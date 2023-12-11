@@ -1,0 +1,27 @@
+1)font-use googel-font awesome
+*2)font awesome cdm-condent
+1vh =19.2x,100 vh =full screen 
+position-realative - s position realative to its normal position
+flex- side wise 
+
+comment=alt +shift +a, ctr +slash 
+PSEUDO CLASS - IS KEY WORD  ADD TO SELECTOR THAT IS SPECIFIDE SPECIAL STATE OF SELECTED ELEMENT eg= hover,visted,active, checked
+different b/w section tag vs div
+
+DISPLAY INBLOCK- IT RESPECTS BOTH TOP  BOTTOM MARGIN AND PADDING
+position- realative- normal position
+         -absolut-parent related 
+
+descendant SELECTOR -is parant name and child name,       
+transition -is a solw movement  
+for grid=display grid row and column
+   1)grid column
+   2)grid row
+   <p>,<section>,<div> are  display same line ,but <span> is inline 
+text algn 
+justify=is paragraph started and ending same
+
+
+object-position=used SPECIFy hownN IMAGE OR VIDEO SHOULD BE position WITH X AND Y CO-RDINATES
+exam=html tags undates,
+css=
